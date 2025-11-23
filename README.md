@@ -1,4 +1,3 @@
-[README_Windows-Bruteforce-Wazuh-Lab.md](https://github.com/user-attachments/files/23692911/README_Windows-Bruteforce-Wazuh-Lab.md)
 # Windows Brute-Force Detection Lab – Wazuh + Sysmon + Windows Event Logs
 
 This repo documents a **home lab** where you simulate a **brute-force attack** against a Windows machine and detect it using:
