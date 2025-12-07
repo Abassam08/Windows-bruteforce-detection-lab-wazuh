@@ -51,7 +51,6 @@ Example addressing (you can change the subnet to match your environment):
 
 ## 🔁 Attack & Detection Flow Diagram (Step-by-Step)
 
-You can preview this flowchart directly on GitHub (Mermaid supported):
 
 ```mermaid
 flowchart TD
